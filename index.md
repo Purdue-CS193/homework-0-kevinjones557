@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Kevin Jones' First CS 193 Homework
+
+```
+# My Favorite Things
+- Small Class Size
+- Around Friends
+- Funny Slides
+```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,11 +32,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```
-This is pretty cool
-#Does this make a new box?
-##Shall we find out
-```
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
