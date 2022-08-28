@@ -25,6 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```
+This is pretty cool
+#Does this make a new box?
+##Shall we find out
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
